@@ -25,25 +25,18 @@
 
 
 <details>
-<summary>2. Git</summary>
-<br>
-  
-  <details>
-  <summary>Что такое Git?</summary>
-  <br>
+<summary>2. Git</summary> 
+    
+  ### Что такое Git?
     
   Это [система контроля версий](https://ru.wikipedia.org/wiki/Git). 
-  Вам она понадобится с первого дня работы. Работа с git-командами через терминал - это тот навык, который вам будет полезен. Но сначала будет достаточно уметь применять ряд простых команд и сценариев работы. 
+  Вам она понадобится с первого дня работы. Работа с git-командами через терминал - это тот навык, который вам будет полезен. Но сначала будет достаточно уметь применять ряд простых команд и сценариев работы.  
 
-  </details>
-
-  <details>
-  <summary>Установка  Git</summary>
-  <br>
+  ### Установка  Git
     
-  При чистой установке Ubuntu 22.04 `git` по умолчанию не поставляется, как и для macOS. Можно проверить это в терминале (сочетание клавиш для linux `Ctrl + Alt + T`, на macOS - ищите `Terminal` (но рекомендую [установить](https://iterm2.com) `iTerm2` и использовать его) через Spotlight): напишите в новом окне `git`. Если терминал вам говорит, что такого пакета нет - идём его устанавливать.
+  При чистой установке Ubuntu 22.04 `git` по умолчанию не поставляется, как и для macOS.   
+  Можно проверить это в терминале (сочетание клавиш для linux `Ctrl + Alt + T`, на macOS - ищите `Terminal` (но рекомендую [установить](https://iterm2.com) `iTerm2` и использовать его) через Spotlight): напишите в новом окне `git`. Если терминал вам говорит, что такого пакета нет - идём его устанавливать.  
 [Следуйте инструкции для вашей ОС](https://git-scm.com/downloads)
-  </details>
 </details>
 
 <details>
@@ -53,10 +46,10 @@
   <details>
   <summary>3.1 Что такое GitHub?</summary>
   <br>
-
-  Для начала посмотри [лекцию по github](https://youtu.be/4TRClQ7rttw)  
-  
+      
+  [Лекция по github](https://youtu.be/4TRClQ7rttw)   
   GitHub - это [cистема управления версиями](https://ru.wikipedia.org/wiki/Система_управления_версиями) с социальной составляющей. В соцсети вы выкладываете фотографии, а тут исходный код. Это ещё и самая большая площадка для opensource     проектов. Веб-сервис основан на [системе](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) контроля версий [Git](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F). Ну и конечно, вы можете сделать свою гитхаб страницу своим [*резюме*](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
+      
   </details>
 
  <details>
