@@ -43,8 +43,7 @@
 <summary>3. GitHub </summary>
     
  ### 3.1 Что такое GitHub?
-      
-  [Лекция по github](https://youtu.be/4TRClQ7rttw)   
+    
   GitHub - это [cистема управления версиями](https://ru.wikipedia.org/wiki/Система_управления_версиями) с социальной составляющей. В соцсети вы выкладываете фотографии, а тут исходный код. Это ещё и самая большая площадка для opensource     проектов. Веб-сервис основан на [системе](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) контроля версий [Git](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F). Ну и конечно, вы можете сделать свою гитхаб страницу своим [*резюме*](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
 
 ### 3.2 Настройка доступа по SSH
@@ -141,8 +140,6 @@
 <summary>5. Jupyter notebook/lab</summary>
     
   ### 5.1 Что такое Jupyter notebook/lab?
-
-  [Лекция по jupyter notebook / Lab](https://youtu.be/qPPAJ9BHvng)
 
   Один из основных инструментов работы, позволяющий разрабатывать и представлять результаты работы в Data Science. Использует интерактивный Python на локальном компьютере. Notebook - это "блокнот", который соединяет код и его визуализацию в ячейках - исполняемых и для разметки. 
   
